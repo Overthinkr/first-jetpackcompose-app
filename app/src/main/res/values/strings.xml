@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Business Card</string>
+    <string name="name">Mayank Roy</string>
+    <string name="desig">Student Learner</string>
+    <string name="phno">(+91) 82481-18522</string>
+    <string name="email">roy050703@gmail.com</string>
+    <string name="twitter">\@MayankR69683341</string>
+    <string name="linkedin">mayank-roy-924441219</string>
+</resources>
